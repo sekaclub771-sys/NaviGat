@@ -122,7 +122,7 @@ setActiveTab('map');
 
 {loc.name}
 
-Славяне: {loc.slavs} | Пенсионеры: {loc.pensioners}
+Славяне: {loc.slavs} | Pensioners: {loc.pensioners}
 
 
 
